@@ -4,7 +4,7 @@
 
 Based in Peru, with a background in Biological Sciences from Universidad Nacional de Trujillo. I turn business and field data into clear dashboards and practical insights.
 
-**Tools:** SQL · BigQuery · Looker Studio · Excel · RStudio
+**Tools:** SQL · BigQuery · Looker Studio · Excel · R studio
 
 ## Selected projects
 
