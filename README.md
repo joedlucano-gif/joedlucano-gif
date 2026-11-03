@@ -16,7 +16,7 @@ Analysis of **96,211 delivered orders** covering sales, repeat purchasing and de
 - **3.00%** of customers in scope placed multiple delivered orders during January 2017–August 2018.
 - Built SQL queries using joins, CTEs and window functions; documented KPI definitions and data-quality limitations.
 
-[Case study & technical notes](https://app.notion.com/p/40b00e5930d981889457f36e038e3c22) · [Interactive dashboard](https://datastudio.google.com/reporting/f9d0ac1b-739d-459d-9ea8-8a57cac34915)
+[SQL & documentation](https://github.com/joedlucano-gif/olist-growth-analysis) · [Case study](https://app.notion.com/p/40b00e5930d981889457f36e038e3c22) · [Interactive dashboard](https://datastudio.google.com/reporting/f9d0ac1b-739d-459d-9ea8-8a57cac34915)
 
 ### Avocado Biodiversity — Field Data Analysis
 **Excel · R · Agricultural research**
