@@ -28,7 +28,7 @@ Analysis of **8,299 insects across 32 morphospecies** from two Hass avocado farm
 
 Completed thesis · Defence pending
 
-[Case study & selected R code](https://app.notion.com/p/40c00e5930d98197b36bcf3fd769a0b2)
+[R code & documentation](https://github.com/joedlucano-gif/avocado-biodiversity-analysis) · [Case study](https://app.notion.com/p/40c00e5930d98197b36bcf3fd769a0b2)
 
 ## ✉️ Let's connect
 
