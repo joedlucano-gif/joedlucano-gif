@@ -4,7 +4,7 @@
 
 Based in Peru, with a background in Biological Sciences from Universidad Nacional de Trujillo. I turn business and field data into clear dashboards and practical insights.
 
-**Tools:** SQL · BigQuery · Looker Studio · Excel · R / RStudio
+**Tools:** SQL · BigQuery · Looker Studio · Excel · RStudio
 
 ## Selected projects
 
@@ -19,7 +19,7 @@ Analysis of **96,211 delivered orders** covering sales, repeat purchasing and de
 [SQL & documentation](https://github.com/joedlucano-gif/olist-growth-analysis) · [Case study](https://app.notion.com/p/40b00e5930d981889457f36e038e3c22) · [Interactive dashboard](https://datastudio.google.com/reporting/f9d0ac1b-739d-459d-9ea8-8a57cac34915)
 
 ### 🌱 Avocado Biodiversity — Field Data Analysis
-**Excel · R · Agricultural research**
+**Excel · R studio · Agricultural research**
 
 Analysis of **8,299 insects across 32 morphospecies** from two Hass avocado farms in Olmos, Peru.
 
