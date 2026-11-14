@@ -6,6 +6,8 @@
 
 Based in Peru, with a background in Biological Sciences from Universidad Nacional de Trujillo. I turn business and field data into clear dashboards and practical insights.
 
+I have nearly one year of agricultural field experience, preparing weekly technical reports and monthly research updates for senior management.
+
 **Tools:** SQL · BigQuery · Looker Studio · Excel · RStudio
 
 ## Selected projects
