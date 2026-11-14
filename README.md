@@ -1,6 +1,4 @@
 
-<img src="assets/profile-photo.svg" width="180" alt="Daniel Lucano professional portrait" />
-
 # Hi, I'm Daniel Lucano 👋
 
 **Data Analyst · Business Analytics · Agricultural Data**
