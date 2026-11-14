@@ -1,4 +1,3 @@
-![Daniel Lucano — Data Analytics and AgTech](assets/profile-cover.jpg)
 
 <img src="assets/profile-photo.svg" width="180" alt="Daniel Lucano professional portrait" />
 
