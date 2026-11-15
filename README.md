@@ -33,6 +33,18 @@ Completed thesis · Defence pending
 
 [RStudio analysis & documentation](https://github.com/joedlucano-gif/avocado-biodiversity-analysis) · [Case study](https://app.notion.com/p/40c00e5930d98197b36bcf3fd769a0b2)
 
+
+### 🌾 Cusco Agricultural Production — SQL Data Cleaning
+**SQL · BigQuery · Agricultural data quality**
+
+Cleaned and validated **3,672 agricultural production records** from Cusco, Peru, using a reproducible BigQuery workflow.
+
+- Standardized crop names, dates and campaign-specific production/yield fields.
+- Added quality checks for invalid geographic/crop codes and yield inconsistencies while preserving all source records.
+- **Initial review:** 77 records flagged, including 49 with invalid geographic codes. The current SQL also compares calculated and reported yields; these initial counts are not the updated validation totals.
+
+[SQL query](https://github.com/joedlucano-gif/Cusco-agricultural-data-cleaning/blob/main/Data_cleaning.sql) · [GitHub project](https://github.com/joedlucano-gif/Cusco-agricultural-data-cleaning) · [Notion case study](https://app.notion.com/p/41900e5930d981729fc3e06da159db8e)
+
 ## ✉️ Let's connect
 
 Open to junior data analyst roles and project collaborations in business analytics, agriculture and research.
