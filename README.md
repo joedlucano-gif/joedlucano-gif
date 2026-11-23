@@ -42,11 +42,10 @@ Turned **3,672 agricultural records** into an interactive analysis of crop produ
 - **Key finding:** quinoa output grew **20.4% with 5.3% less harvested area** in 2024–2025.
 - Combined traceable SQL validation, weighted KPIs and two dashboard views to identify priorities for further investigation.
 
-[Project & dashboard previews](https://github.com/joedlucano-gif/Cusco-agricultural-data-cleaning) · [Visual case study](https://app.notion.com/p/41900e5930d981729fc3e06da159db8e)
+[↗ Interactive dashboard](https://datastudio.google.com/reporting/d9e73bba-514e-4f3e-bd06-04e97737fa89) · [Project & dashboard previews](https://github.com/joedlucano-gif/Cusco-agricultural-data-cleaning) · [Visual case study](https://app.notion.com/p/41900e5930d981729fc3e06da159db8e)
 
 ## ✉️ Let's connect
 
 Open to junior data analyst roles and project collaborations in business analytics, agriculture and research.
 
 [Portfolio](https://app.notion.com/p/40b00e5930d980aa8797efb988609163) · [LinkedIn](https://www.linkedin.com/in/daniel-lucano-nieves-109886270) · [Email](mailto:joedlucano@gmail.com)
-
