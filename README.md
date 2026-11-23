@@ -34,19 +34,19 @@ Completed thesis · Defence pending
 [RStudio analysis & documentation](https://github.com/joedlucano-gif/avocado-biodiversity-analysis) · [Case study](https://app.notion.com/p/40c00e5930d98197b36bcf3fd769a0b2)
 
 
-### 🌾 Cusco Agricultural Production — SQL Data Cleaning
-**SQL · BigQuery · Agricultural data quality**
+### 🌾 Cusco — Agricultural Productivity & Economics
+**SQL · BigQuery · Looker Studio**
 
-Cleaned and validated **3,672 agricultural production records** from Cusco, Peru, using a reproducible BigQuery workflow.
+Turned **3,672 agricultural records** into an interactive analysis of crop productivity, provincial yield gaps and estimated production value.
 
-- Standardized crop names, dates and campaign-specific production/yield fields.
-- Added quality checks for invalid geographic/crop codes and yield inconsistencies while preserving all source records.
-- **Initial review:** 77 records flagged, including 49 with invalid geographic codes. The current SQL also compares calculated and reported yields; these initial counts are not the updated validation totals.
+- **Key finding:** quinoa output grew **20.4% with 5.3% less harvested area** in 2024–2025.
+- Combined traceable SQL validation, weighted KPIs and two dashboard views to identify priorities for further investigation.
 
-[SQL query](https://github.com/joedlucano-gif/Cusco-agricultural-data-cleaning/blob/main/Data_cleaning.sql) · [GitHub project](https://github.com/joedlucano-gif/Cusco-agricultural-data-cleaning) · [Notion case study](https://app.notion.com/p/41900e5930d981729fc3e06da159db8e)
+[Project & dashboard previews](https://github.com/joedlucano-gif/Cusco-agricultural-data-cleaning) · [Visual case study](https://app.notion.com/p/41900e5930d981729fc3e06da159db8e)
 
 ## ✉️ Let's connect
 
 Open to junior data analyst roles and project collaborations in business analytics, agriculture and research.
 
 [Portfolio](https://app.notion.com/p/40b00e5930d980aa8797efb988609163) · [LinkedIn](https://www.linkedin.com/in/daniel-lucano-nieves-109886270) · [Email](mailto:joedlucano@gmail.com)
+
